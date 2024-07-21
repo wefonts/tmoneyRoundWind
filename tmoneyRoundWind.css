@@ -2,22 +2,22 @@
     font-family: "tmoneyRoundWind";
     font-weight: 400;
     font-style: normal;
-    src: url("https://cdn.jsdelivr.net/gh/websfont/tmoneyRoundWind/tmoneyRoundWind-Regular.eot");
-    src: url("https://cdn.jsdelivr.net/gh/websfont/tmoneyRoundWind/tmoneyRoundWind-Regular.eot?#iefix") format("embedded-opentype"),
-         url("https://cdn.jsdelivr.net/gh/websfont/tmoneyRoundWind/tmoneyRoundWind-Regular.woff2") format("woff2"),
-         url("https://cdn.jsdelivr.net/gh/websfont/tmoneyRoundWind/tmoneyRoundWind-Regular.woff") format("woff"),
-         url("https://cdn.jsdelivr.net/gh/websfont/tmoneyRoundWind/tmoneyRoundWind-Regular.ttf") format("truetype");
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/tmoneyRoundWind/tmoneyRoundWind-Regular.eot");
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/tmoneyRoundWind/tmoneyRoundWind-Regular.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/tmoneyRoundWind/tmoneyRoundWind-Regular.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/tmoneyRoundWind/tmoneyRoundWind-Regular.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/tmoneyRoundWind/tmoneyRoundWind-Regular.ttf") format("truetype");
     font-display: swap;
 } 
 @font-face {
     font-family: "tmoneyRoundWind";
     font-weight: 800;
     font-style: normal;
-    src: url("https://cdn.jsdelivr.net/gh/websfont/tmoneyRoundWind/tmoneyRoundWind-ExtraBold.eot");
-    src: url("https://cdn.jsdelivr.net/gh/websfont/tmoneyRoundWind/tmoneyRoundWind-ExtraBold.eot?#iefix") format("embedded-opentype"),
-         url("https://cdn.jsdelivr.net/gh/websfont/tmoneyRoundWind/tmoneyRoundWind-ExtraBold.woff2") format("woff2"),
-         url("https://cdn.jsdelivr.net/gh/websfont/tmoneyRoundWind/tmoneyRoundWind-ExtraBold.woff") format("woff"),
-         url("https://cdn.jsdelivr.net/gh/websfont/tmoneyRoundWind/tmoneyRoundWind-ExtraBold.ttf") format("truetype");
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/tmoneyRoundWind/tmoneyRoundWind-ExtraBold.eot");
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/tmoneyRoundWind/tmoneyRoundWind-ExtraBold.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/tmoneyRoundWind/tmoneyRoundWind-ExtraBold.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/tmoneyRoundWind/tmoneyRoundWind-ExtraBold.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/tmoneyRoundWind/tmoneyRoundWind-ExtraBold.ttf") format("truetype");
     font-display: swap;
 } 
 .tmoneyRoundWind {
